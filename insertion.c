@@ -29,7 +29,7 @@ int main (){
             printf("Invalid position");
             return(1);
         }
-    printf("\nEnter the element you want to insert :\n");
+    printf("Enter the element you want to insert :\n");
         scanf("%d",&element);
     
    
